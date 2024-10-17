@@ -25,9 +25,10 @@ pip install yt-dlp moviepy
 ```
 
 ## Example
-
+```
 Enter YouTube URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 Enter start time (in format mm:ss): 00:30
 Enter end time (in format mm:ss): 01:00
 Enter output folder path: /path/to/output
 
+```
